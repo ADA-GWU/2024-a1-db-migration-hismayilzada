@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/JwSLLxUh)
+INSTALLING:
+________________________________
+https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+This is the link that you should use to install Postgres, it will open all its components(shell, PgAdmin). After installation type the search bar "sql shell". Go to creating_tbls.sql file, copy the codes, paste it to the shell, and press enter. You will see the table that is created in the shell.
